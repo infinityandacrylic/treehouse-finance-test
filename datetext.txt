@@ -1,0 +1,14 @@
+What is the correct date format in English? How you do this usually depends on whether you write a formal letter or an informal note; or whether your use the British or American date format. As you can see from the examples below, there are a number of ways in which you can write the same date. A general rule: the more complicated the style of date, the more formal it is. In British English, which is mainly used in Australia, the day is followed by the month, which is then followed by the year. The 6th day of the month September, in the year 2019, might be written in full (in order of complexity):
+6 Sept, 6 September, 6 September 2019, 6th September 2019, the 6th of September 2019, the 6th of September, 2019.
+The last two date formats are more formal. The “the” and “of” are optional but if you do use them, you must add both “the” and “of.” It is incorrect to say only “6th of September” or “the 6th September.”
+As for the year, commas are not necessary when you write the date in British English, but you can if you prefer this style.
+If you wish to add the name of the day, it should come before the date, and should either be separated by a comma or joined by “the” and “of.”
+Saturday, 13 April 2019, Saturday the 13th of April, 2019.
+If you prefer to abbreviate the date, you can use the following style in British English. Again, the day comes first, then the month, then the year.
+6/9/19 or 6.9.19 or 6-9-19, 06/09/2019 or 06.09.2019 or 06-09-2019, 9Sept2019 or 6-Sept-19.
+The most commonly used separator in the all-numeric date format is a forward slash (/). However, you can also use a hyphen (-) or a period (.).
+In an effort to avoid miscommunication between people using the British date format and those using the American date format, an International Standard was developed. If an Australian writes February 3, 2019 as 03/02/2019, but an American writes the same date as 02/03/2019, who’s right? The international standard recommends writing the date as year, then month, then the day: YYYY-MM-DD. So if both the Australian and American used this, they would both write the date as 2019-02-03.
+Writing the date this way avoids confusion by placing the year first. Much of Asia uses this form when writing the date. For example:
+January 1, 2018 would be written as 2018 January 1. (Did you notice there’s no comma?).
+The other forms of dates you may find are 2019/09/05 or even 03 Jan 2020.
+
